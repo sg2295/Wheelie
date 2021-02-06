@@ -6,7 +6,7 @@ A remote-controlled (RC) car based on the communication between two Arduino Uno3
 > The judges of this competition included Senior University Teaching Staff and Guest Lecturers.
 
 ## Demo 🎥
-A live demonstration of *Wheelie*'s features can be seen in the following video: [![Video of Wheelie in Action]({image-url})]({video-url} "Video demonstration")
+A live demonstration of *Wheelie*'s features can be seen in the following video: [![Video of Wheelie in Action]({https://images-na.ssl-images-amazon.com/images/I/519-y7vsUrL._AC_.jpg})]({https://drive.google.com/file/d/1z9_w8FyCgQKcVuqYKy2xbsiI9LDt_MON/view?usp=sharing} "Video demonstration")
 
 
 ## Report 📝
