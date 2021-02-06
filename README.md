@@ -6,7 +6,8 @@ A remote-controlled (RC) car based on the communication between two Arduino Uno3
 > The judges of this competition included Senior University Teaching Staff and Guest Lecturers.
 
 ## Demo 🎥
-A live demonstration of the RC car can be seen in the following video
+A live demonstration of *Wheelie*'s features can be seen in the following video: [![Video of Wheelie in Action]({image-url})]({video-url} "Video demonstration")
+
 
 ## Report 📝
 This project also included a separate report further explaining and evaluating the implementation. Specifically, the report covers:
@@ -17,4 +18,4 @@ This project also included a separate report further explaining and evaluating t
   - Movement of the car
   - Torch and Horn controls
   - Sensor and Arm Control
-> Please note that this project was developed before the usage of neutral terms for Slave and Master code segments (now known Leader and Follower) became the norm.
+> Please note that this project was developed before the usage of neutral terms for *Slave* and *Master* code segments, now known as *Leader* and *Follower*, became the norm.
