@@ -12,7 +12,7 @@ A live demonstration of *Wheelie*'s features can be seen in the following video:
 ## Report 📝
 This project also included a separate report further explaining and evaluating the implementation. Specifically, the report covers:
 - An introduction and description to the project
-- A detailed Schema and final hardware layout
+- A detailed Schematic and final hardware layout
 - In-depth explanations for the implementations of the:
   - Communication of two boards
   - Movement of the car
